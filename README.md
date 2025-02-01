@@ -1,12 +1,13 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Aleksandrs Pirags
 ---
 
-## Web Developer
+## Digital Solutions | Cybersecurity
 
-- 🌍  Based in Rothwell, Northamptonshire
+- 🌍  Based in Northamptonshire
 - 🖥️  Portfolio: [pirags.com](https://www.pirags.com)
 - ✉️  Contact: [aleksandrs@pirags.com](mailto:aleksandrs@pirags.com)
-- 🚀  Currently working on [AlpiCMS](https://github.com/alpibit/alpi-cms) and [NeuralNet-Sandbox](https://github.com/alpibit/NeuralNet-Sandbox)
+- 🚀  Currently exploring new technologies and best practices
+- 🔒  Building robust digital solutions
 
 ---
 
