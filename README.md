@@ -5,7 +5,7 @@
 
 - 🌍  Based in Northamptonshire
 - 🖥️  Portfolio: [pirags.com](https://www.pirags.com)
-- ✉️  Contact: [aleksandrs@pirags.com](mailto:aleksandrs@pirags.com)
+- ✉️  Contact: [contact@pirags.com](mailto:contact@pirags.com)
 - 🚀  Currently exploring new technologies and best practices
 - 🔒  Building robust digital solutions
 
