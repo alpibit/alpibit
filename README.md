@@ -4,7 +4,7 @@
 ## Digital Solutions | Cybersecurity
 
 - 🌍  Based in Northamptonshire
-- 🖥️  Portfolio: [pirags.com](https://www.pirags.com)
+- 🖥️  Portfolio: [pirags.com](https://pirags.com)
 - ✉️  Contact: [contact@pirags.com](mailto:contact@pirags.com)
 - 🚀  Currently exploring new technologies and best practices
 - 🔒  Building robust digital solutions
